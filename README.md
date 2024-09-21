@@ -42,5 +42,5 @@ An AI chatbot built for counseling purposes using Python and Rasa. The chatbot i
 
 ## 📫 Let's Connect
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/rutviksrimali)
-- Email: [rutvik@example.com](mailto:rutvik@example.com)
+- Email: [rutvik@example.com](mailto:rutviksrimali786@.com)
 - Twitter: [@RutvikSrimali](https://twitter.com/RutvikSrimali)
